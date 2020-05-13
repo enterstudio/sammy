@@ -9,6 +9,6 @@ group :development do
 end
 
 group :test do
-  gem 'vegas'
-  gem 'sinatra'
+  gem 'vegas', '>= 0.1.8'
+  gem 'sinatra', '>= 2.0.0'
 end
