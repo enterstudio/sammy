@@ -4,7 +4,7 @@ group :development do
   gem 'rake'
   gem 'haml', '3.0.24' 
   gem 'rdiscount'
-  gem 'activesupport', '2.3.8'
+  gem 'activesupport', '5.2.4.3'
   gem 'yajl-ruby'
 end
 
